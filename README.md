@@ -6,4 +6,3 @@ Output dari proyek ini adalah aplikasi konsol C++ yang memodernisasi sistem pemi
 2. Fitur Peminjaman. pengguna memasukan Nama dan ID Buku yang ingin dipinjam.
 3. Fitur Pengembalian, pengguna mengembalikan buku yang dipinjam
 4. Sistem Poin dan Papan Peringkat, pengguna mendapatkan poin setiap melakukan peminjaman dan pengembalian buku
-5. Riwayat Transaksi Peminjaman Buku
